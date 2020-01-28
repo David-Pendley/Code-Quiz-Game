@@ -1,0 +1,31 @@
+.container {
+  background-color: magenta;
+  height: 500px;
+  border-radius: 25px;
+}
+
+#question-container {
+  background-color: lightblue;
+}
+
+#btn0,
+#btn1,
+#btn2,
+#btn3 {
+  background-color: orangered;
+  width: 150px;
+  height: 75px;
+  margin: 10px 10px 10px 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttons {
+  width: 70%;
+}
+
+.timer {
+  width: 29%;
+}
